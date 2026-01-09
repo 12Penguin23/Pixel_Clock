@@ -1,5 +1,5 @@
 MOD: 
-/nMAX7219 x1
-/nArduino x1
-/nDS3231 x1
-/nButton x2
+MAX7219 x1
+Arduino x1
+DS3231 x1
+Button x2
